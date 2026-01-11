@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://duyendinh.github.io/blog/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://duyendinh.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://duyendinh.github.io/blog/</loc>
+<loc>https://duyendinh.com/</loc>
 </url>
 <url>
-<loc>https://duyendinh.github.io/blog/hanh-trinh-hoc-bong-chinh-phu-thuy-dien-sisgp-phan-1-tong-quan-ve-hoc-bong.html</loc>
+<loc>https://duyendinh.com/hanh-trinh-hoc-bong-chinh-phu-thuy-dien-sisgp-phan-1-tong-quan-ve-hoc-bong.html</loc>
 <lastmod>2026-01-11T18:00:09+01:00</lastmod>
 </url>
 <url>
-<loc>https://duyendinh.github.io/blog/hanh-trinh-hoc-bong-chinh-phu-thuy-dien-sisgp-phan-2-university-admission.html</loc>
+<loc>https://duyendinh.com/hanh-trinh-hoc-bong-chinh-phu-thuy-dien-sisgp-phan-2-university-admission.html</loc>
 <lastmod>2026-01-11T18:12:38+01:00</lastmod>
 <image:image>
-<image:loc>https://duyendinh.github.io/blog/media/posts/2/Screenshot-2026-01-11-at-17.59.13.png</image:loc>
+<image:loc>https://duyendinh.com/media/posts/2/Screenshot-2026-01-11-at-17.59.13.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://duyendinh.github.io/blog/hanh-trinh-hoc-bong-chinh-phu-thuy-dien-sisgp-phan-3-thu-trinh-bay-dong-luc-motivational-lettersop.html</loc>
+<loc>https://duyendinh.com/hanh-trinh-hoc-bong-chinh-phu-thuy-dien-sisgp-phan-3-thu-trinh-bay-dong-luc-motivational-lettersop.html</loc>
 <lastmod>2026-01-11T18:16:37+01:00</lastmod>
 </url>
 <url>
-<loc>https://duyendinh.github.io/blog/hanh-trinh-hoc-bong-chinh-phu-thuy-dien-sisgp-phan-4-cac-giay-to-khac-cv-thu-gioi-thieu-giay-chung-nhan.html</loc>
+<loc>https://duyendinh.com/hanh-trinh-hoc-bong-chinh-phu-thuy-dien-sisgp-phan-4-cac-giay-to-khac-cv-thu-gioi-thieu-giay-chung-nhan.html</loc>
 <lastmod>2026-01-11T18:16:53+01:00</lastmod>
 </url>
 <url>
-<loc>https://duyendinh.github.io/blog/hanh-trinh-hoc-bong-chinh-phu-thuy-dien-sisgp.html</loc>
+<loc>https://duyendinh.com/hanh-trinh-hoc-bong-chinh-phu-thuy-dien-sisgp.html</loc>
 <lastmod>2026-01-11T18:06:11+01:00</lastmod>
 </url>
 </urlset>
